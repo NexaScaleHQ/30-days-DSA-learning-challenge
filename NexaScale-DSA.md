@@ -37,3 +37,43 @@ Select one of the following that matches your language of choice
 - (Arrays in Javascript)[https://youtu.be/txjmvEPlAtU]
 - (Arrays in C/C++)[https://youtu.be/TzB5ZeKQIHM]
 - (C# Working with Arrays)[https://youtu.be/2U3jZLpFYyE]
+
+## Basic Operations of Array - Searching Algorithm
+### Day 5: Linear Search Algorithm
+- (Linear Search)[https://www.geeksforgeeks.org/linear-search/]
+- (Sentinel Linear Search)[https://www.geeksforgeeks.org/sentinel-linear-search/]
+
+**Additional Resources (optional)**
+- (Linear Search in 3 minutes)[https://www.youtube.com/watch?v=246V51AWwZM]
+- (Linear Search Simplilearn)[https://www.youtube.com/watch?v=ijK6yqDGQUg]
+- (Linear Search Animated)[https://youtu.be/yRErgiYyv_E]
+
+### Day 6: Binary Search Algorithm
+- (Binary Search – Data Structure and Algorithm Tutorials)[https://www.geeksforgeeks.org/binary-search/]
+- (Meta Binary Search - One sided Binary search)[https://www.geeksforgeeks.org/meta-binary-search-one-sided-binary-search/]
+
+**Additional Resources (optional)**
+- (Introduction to Binary Search)[https://www.youtube.com/watch?v=6ysjqCUv3K4]
+- (Binary Search Explained)[https://youtu.be/ttiofs3n_hA]
+- (Binary Search Animated)[https://youtu.be/DRsJ8sA9xzc]
+
+ ### Day 7: Ternary Search and Jump Search
+ - (Ternary Search)[https://www.geeksforgeeks.org/ternary-search/]
+ - (Jump Search)[https://www.geeksforgeeks.org/jump-search/]
+
+### Day 8: Interpolation Search and Exponential Search
+- (Interpolation Search)[https://www.geeksforgeeks.org/interpolation-search/]
+- (Exponential Search)[https://www.geeksforgeeks.org/exponential-search/]
+
+### Day 9: Fibonacci Search and Ubiquitous
+- (Fibonacci Search)[https://www.geeksforgeeks.org/fibonacci-search/]
+- (Ubiquitous Binary Search)[https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/]
+
+## Comparisons
+
+### Day 10: Linear Search Vs Binary Search
+- (Linear Search vs Binary Search)[https://www.geeksforgeeks.org/linear-search-vs-binary-search/]
+
+**Additional Resources (optional Resources)**
+- (Linear vs Binary search GeeksForGeeks)[https://www.youtube.com/watch?v=qBGLYzFF1aQ]
+- (Linear Search Vs Binary search Animated)[https://youtu.be/FHRyqWdLkpE]

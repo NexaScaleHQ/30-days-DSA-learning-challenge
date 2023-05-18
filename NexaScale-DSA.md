@@ -57,7 +57,7 @@ Select one of the following that matches your language of choice
 - (Binary Search Explained)[https://youtu.be/ttiofs3n_hA]
 - (Binary Search Animated)[https://youtu.be/DRsJ8sA9xzc]
 
- ### Day 7: Ternary Search and Jump Search
+### Day 7: Ternary Search and Jump Search
  - (Ternary Search)[https://www.geeksforgeeks.org/ternary-search/]
  - (Jump Search)[https://www.geeksforgeeks.org/jump-search/]
 
@@ -77,3 +77,35 @@ Select one of the following that matches your language of choice
 **Additional Resources (optional Resources)**
 - (Linear vs Binary search GeeksForGeeks)[https://www.youtube.com/watch?v=qBGLYzFF1aQ]
 - (Linear Search Vs Binary search Animated)[https://youtu.be/FHRyqWdLkpE]
+
+### Day 11: Interpolation Search Vs Binary Search
+- (Interpolation Search vs Binary Search)[https://www.geeksforgeeks.org/g-fact-84/]
+- (Why is Binary Search preferred over Ternary Search?)[https://www.geeksforgeeks.org/binary-search-preferred-ternary-search/]
+
+**Additional Resources (optional)**
+- (Interpolation Search)[https://youtu.be/YSVS5GG1JuI]
+- (Ternary Search Vs Binary Search)[https://youtu.be/8AE8aZ7kEkk]
+
+
+### Day 12: Introduction to Linked List
+- (What is Linked List)[https://www.geeksforgeeks.org/what-is-linked-list//]
+
+**Additional Resources (optional)**
+- (Linked List in Data Structure)[https://youtu.be/WwfhLC16bis]
+
+### Day 13: Introduction to Linked List (cont...)
+- (Linked List – Data Structure and Algorithm )[https://www.geeksforgeeks.org/introduction-to-linked-list-data-structure-and-algorithm-tutorial/]
+
+**Additional Resources (optional)**
+- (Introduction to Linked List)[https://youtu.be/R9PTBwOzceo]
+
+### Day 14: Application of Linked List
+- (Applications, Advantages and Disadvantages of Linked List)[https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-linked-list/]
+
+### Day 15: Linked List Vs Array
+- (Linked List vs Array)[https://www.geeksforgeeks.org/linked-list-vs-array/]
+
+**Additional Resources (Optional)**
+- (Array vs Linked List - JOMA)[https://youtu.be/ir2gbu3Lj8s]
+- (Linked List vs Array - Neso Academy)[https://youtu.be/b5QR4AmrspU]
+- (Linked List vs Array - Simplilearn)[https://youtu.be/Muo0UdwESn4]

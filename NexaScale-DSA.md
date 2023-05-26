@@ -109,3 +109,37 @@ Select one of the following that matches your language of choice
 - (Array vs Linked List - JOMA)[https://youtu.be/ir2gbu3Lj8s]
 - (Linked List vs Array - Neso Academy)[https://youtu.be/b5QR4AmrspU]
 - (Linked List vs Array - Simplilearn)[https://youtu.be/Muo0UdwESn4]
+
+### Day 16: Doubly Linked List
+- [Introdcuction to Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/)
+- [Doubly Linked List meaning in DSA](https://www.geeksforgeeks.org/doubly-linked-list-meaning-in-dsa/)
+
+**Additional Resources**
+- [Doubly Linked List: Naso Academy](https://youtu.be/e9NG_a6Z0mg)
+- [Doubly Linked List in DSA](https://youtu.be/3RzC2NrCO24)
+
+### Day 17: Memory Efficient Doubly Linked List
+- [Memory Efficient Doubly Linked List](https://www.geeksforgeeks.org/memory-efficient-doubly-linked-list/)
+
+### Day 18: Doubly Linked List Basic Operations
+- [Introduction and Inserttion in a Doubly Linked List](https://www.geeksforgeeks.org/introduction-and-insertion-in-a-doubly-linked-list/)
+- [Reverse Doubly Linked List](https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/)
+- [Delete Node in Doubly Linked List](https://www.geeksforgeeks.org/delete-a-node-in-a-doubly-linked-list/)
+
+**Additional Resources**
+- [Learn Linked List in 13mins - Bro Code](https://youtu.be/N6dOwBde7-M)
+
+### Day 19: Types of Linked Lists
+- [Types of Linked List](https://www.geeksforgeeks.org/types-of-linked-list/)
+
+**Additional Resources**
+- [Types of Linked List with Real world Examples](https://www.youtube.com/watch?v=jnVrh_JMzag)
+
+### Day 20: Basic Linked Lists Operations
+- [Basic Operations - Insertion in Linked List](https://www.geeksforgeeks.org/insertion-in-linked-list/)
+
+
+
+
+
+Side note: This once a week meeting for DSA is not enough, I'm thinking of doing a video of the present day learning challenge and share so that members of the community can watch and learn, then they will be a form where they can send their answers to. I can do a quick technical article on the answers or video or discuss it in our office hours.

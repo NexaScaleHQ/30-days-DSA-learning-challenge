@@ -138,8 +138,59 @@ Select one of the following that matches your language of choice
 ### Day 20: Basic Linked Lists Operations
 - [Basic Operations - Insertion in Linked List](https://www.geeksforgeeks.org/insertion-in-linked-list/)
 
+### Day 21: Basic Linked Lists Operations Part 2
+- [Search an Element in Linked List](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
+
+### Day 22: Stack Data Structure
+- [Introduction to Stack](https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/)
+- [Application, Advantages and Disadvantages](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-stack/)
+
+### Day 23: Stack Data STructure Part 2
+- [Implement a Stack Using Singly Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
+- [](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
+
+### Day 24: Implementation of Stack in Different Languages
+- [Stack in C++](https://www.geeksforgeeks.org/stack-in-cpp-stl/)
+- [Stack in Java](https://www.geeksforgeeks.org/stack-class-in-java/)
+- [Stack in Python](https://www.geeksforgeeks.org/stack-in-python/)
+- [Stack in C#](https://www.geeksforgeeks.org/c-sharp-stack-with-examples/)
+- [Stack Implementation in JavaScript](https://www.geeksforgeeks.org/implementation-stack-javascript/)
+
+### Day 25: Queue Data Structure
+- [Introduction to Queue DS&A](https://www.geeksforgeeks.org/introduction-to-queue-data-structure-and-algorithm-tutorials/)
+- [Implementation of Queue using Array](https://www.geeksforgeeks.org/introduction-and-array-implementation-of-queue/)
+- [Queue - Linked List Implementation](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
+
+### Day 26: Queue Implementation in Various Programming Language
+- [Queue in C++](https://www.geeksforgeeks.org/queue-cpp-stl/)
+- [Queue Interface in Java](https://www.geeksforgeeks.org/queue-interface-java/)
+- [Queue Implementation in Python](https://www.geeksforgeeks.org/queue-in-python/)
+- [Queue in C#](https://www.geeksforgeeks.org/c-sharp-queue-with-examples/)
+- [Queue Implementation in JavaScript](https://www.geeksforgeeks.org/implementation-queue-javascript/)
+
+### Day 27: Binary Tree Data Structure
+- [Overview](https://www.geeksforgeeks.org/binary-tree-data-structure/#Introduction)
+- [Introduction to Binary Tree](https://www.geeksforgeeks.org/introduction-to-binary-tree-data-structure-and-algorithm-tutorials/)
+- [Properties of Binary Tree](https://www.geeksforgeeks.org/properties-of-binary-tree/)
+- [Types of Binary Tree](https://www.geeksforgeeks.org/types-of-binary-tree/)
+
+### Day 28: Binary Tree Part 2
+- [Application - Adnavtages - Disadvantages of Binary Tree](https://www.geeksforgeeks.org/applications-advantages-and-disadvantages-of-binary-tree/)
+- [Binary Tree Array Implementaion](https://www.geeksforgeeks.org/binary-tree-array-implementation/)
+- [Complete Binary Tree](https://www.geeksforgeeks.org/complete-binary-tree/)
+- [Perfect Binary Tree](https://www.geeksforgeeks.org/perfect-binary-tree/)
+
+### Day 29: Basic operation of Binary Tree
+- [Tree Traversal Technique](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+- [Level Order Tree Traversal](https://www.geeksforgeeks.org/level-order-tree-traversal/)
+- [Insertion in a binary Tree](https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/)
+
+### Day 30: Basic Operation of Binary Tree Part 2
+- [Deletion in binary](https://www.geeksforgeeks.org/deletion-binary-tree/)
+- [Enumeration of Binary Tree](https://www.geeksforgeeks.org/enumeration-of-binary-trees/)
+
+## THE END!!!
 
 
 
-
-Side note: This once a week meeting for DSA is not enough, I'm thinking of doing a video of the present day learning challenge and share so that members of the community can watch and learn, then they will be a form where they can send their answers to. I can do a quick technical article on the answers or video or discuss it in our office hours.
+_Side note: This once a week meeting for DSA is not enough, I'm thinking of doing a video of the present day learning challenge and share so that members of the community can watch and learn, then they will be a form where they can send their answers to. I can do a quick technical article on the answers or video or discuss it in our office hours._
